@@ -1,0 +1,39 @@
+{
+  "contactos": [
+    {
+      "id": "1",
+      "nombre": "Mariana Suarez",
+      "telefono": "3217532037",
+      "correo": "mariana.suarez@gmail.com",
+      "etiqueta": "Aprendiz"
+    },
+    {
+      "id": "106d",
+      "nombre": "Valentina Ruiz",
+      "telefono": "300 255 48 99",
+      "correo": "valentina@gmail.com",
+      "etiqueta": "Aprendiz"
+    },
+    {
+      "id": "fe50",
+      "nombre": "Ismael Mira ",
+      "telefono": "302 257 88 68",
+      "correo": "ismael.mira@gmail.com",
+      "etiqueta": "Compañero"
+    },
+    {
+      "id": "6b5f",
+      "nombre": "Carlos Gomez",
+      "telefono": "300 232 77 97",
+      "correo": "carlos@sena.edu.co",
+      "etiqueta": "instructor"
+    },
+    {
+      "nombre": "Luna Caro",
+      "telefono": "302 477 98 64",
+      "correo": "luna.caro@gmail.com",
+      "etiqueta": "trabajadora",
+      "id": "63e7"
+    }
+  ]
+}
