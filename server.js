@@ -9,7 +9,7 @@ const middlewares = jsonServer.defaults();
 // Definimos el puerto:
 // - Render define process.env.PORT automáticamente.
 // - En local usamos 3000 si PORT no existe.
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3008;
 // Activamos los middlewares en el servidor
 server.use(middlewares);
 // Permitimos leer datos JSON enviados en el body de las peticiones
